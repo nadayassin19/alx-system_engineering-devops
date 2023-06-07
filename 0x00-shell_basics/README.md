@@ -6,3 +6,4 @@ ls -l: is the command display current directory contents in a long format.
 ls -la: is the command that display current directory contents, including hidden files (starting with .). Use the long format.
 ls -la -n: is the command that display current directory contents.
 mkdir /paarentdirectory/directoryWantedToBeCreated : is the command that creates a directory.
+mv TheFileToBeMoved /TheDesiredDirectory : is the command that moves a file.
