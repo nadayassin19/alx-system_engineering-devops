@@ -1,2 +1,4 @@
 #!/bin/bash
-It's a file shows me 0. Where am I? to write a script that prints the absolute path name of the current working directory.
+pwd: is the command that prints the absolute path name of the current working directory.
+ls: is the command that display the contents list of your current directory.
+
