@@ -9,4 +9,4 @@ mkdir /paarentdirectory/directoryWantedToBeCreated : is the command that creates
 mv TheFileToBeMoved /TheDesiredDirectory : is the command that moves a file.
 rm : is the command that used to delete a file.
 rm -r : is the command that used to delete a directory.
-cd .. : is the command used to go back from the current directory.
+cd .. : is the command used to change the current directory to the previous one.
