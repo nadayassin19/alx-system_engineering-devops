@@ -7,3 +7,4 @@ ls -la: is the command that display current directory contents, including hidden
 ls -la -n: is the command that display current directory contents.
 mkdir /paarentdirectory/directoryWantedToBeCreated : is the command that creates a directory.
 mv TheFileToBeMoved /TheDesiredDirectory : is the command that moves a file.
+rm : is the command that used to delete a file.
