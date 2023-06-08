@@ -13,3 +13,4 @@ cd - : is the command used to change the current directory to the previous one.
 ls -la .. : is the command that used to list all files (even ones with names beginning with a period character, which are normally hidden) in the parent of the working directory in long format.
 file FileName : is the command used to know the type of a file.
 ln -s : is the command to create a sympolic link of a file.
+cp -n *.Extend 
