@@ -1,4 +1,7 @@
 #!/bin/bash
+
+0x00. Shell, basics
+
 0. pwd: is the command that prints the absolute path name of the current working directory.
 1. ls: is the command that display the contents list of your current directory.
 2. cd ~: is the command that changes the working directory to the user’s home directory.
