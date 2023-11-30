@@ -1,0 +1,1 @@
+This is read me file for the project 0x08. Networking basics #1 in ALX SWE program.
